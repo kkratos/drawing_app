@@ -1,4 +1,4 @@
 # drawing_app
 
-<img src='https://imgur.com/nAjSoM2' width=300px title="preview" />
+<img src='https://i.imgur.com/VCQNya5.png' width='300px' title='screenshot' />
 
